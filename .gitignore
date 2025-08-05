@@ -1,0 +1,38 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de ambiente (variáveis sensíveis)
+.env
+.env.*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Arquivos temporários e caches
+*.tmp
+*.bak
+*.swp
+.cache/
+.cache/*
+
+# SQL
+*.sqlite3
+
+#Requirements
+requirements.txt
+
+# Arquivos binários e bases de dados pesadas
+*.bin
+*.pyd
+*.db
+*.data
+
+# VS Code
+.vscode/
+
